@@ -4,4 +4,4 @@
 
 [LPC](https://github.com/immobilieremail/lpc)
 
-[Lesportecles - legacy](https://github.com/immobilieremail/lesportecles)
+[Lesportecles](https://github.com/immobilieremail/lesportecles)
